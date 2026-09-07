@@ -1,0 +1,1 @@
+print("time to study DS")
